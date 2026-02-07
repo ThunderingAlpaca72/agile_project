@@ -2,7 +2,6 @@
 AC31007/AC51003 Agile Software Engineering - Group Number 14
 
 Group Members:
-- Sarah Hartley (170009427)
 - Yousaf Nasir (170012283)
 - Gregor Taylor (160012442)
 - Roman Brodskiy (170009741)

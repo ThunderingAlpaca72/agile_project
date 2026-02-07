@@ -2,7 +2,6 @@
 AC31007/AC51003 Agile Software Engineering - Group Number 14
 
 Group Members:
-- Roman Brodskiy (170009741)
 - Blazej Byczkowski(170019249)
 
 ## Hints:
